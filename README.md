@@ -21,12 +21,18 @@ I created a pivot table that counts how many campaigns were "successful," "faile
 
 I created a stacked column pivot chart that can be filtered by country as well.
 
+![image](https://github.com/kelseajade/excelchallenge/assets/152021966/261757ae-91a2-4729-9cd7-82c72e9438a8)
+![image](https://github.com/kelseajade/excelchallenge/assets/152021966/66a2d8f2-4536-4ff4-89a3-f1f123d1abdc)
+
+
 Pivot Tables and Line Graphs 
 I created a pivot table with a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
 
 I created apivot chart line graph using the data above.
 
 I created a line chart showing the relationship between the goal’s amount and its chances at success, failure, or cancellation.
+
+![image](https://github.com/kelseajade/excelchallenge/assets/152021966/6bf0d109-4fa1-4b97-a921-e380b947ab63)
 
 Statistical Analysis 
 Successful campaigns 
@@ -45,4 +51,5 @@ maximum 6080
 variance 924113
 Standard Deviation 961
 
+![image](https://github.com/kelseajade/excelchallenge/assets/152021966/2e29816e-f6b9-4db8-b8c7-8e18b0df26ce)
 
